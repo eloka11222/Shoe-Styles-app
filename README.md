@@ -42,12 +42,15 @@ The customer must be able to:
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Welcome%20Screen.jpg)
 
 On clicking in the “Storekeeper” Button, the store staff is taken to a screen where they can view and edit properties of each product namely Price, Quantity in Stock and Discount.
-![](inventoryupdate.jpg)
+
+![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/InventoryManagement.jpg)
 
 To be able to view a tabular list of all the details of the current inventory in stock, I created a model driven app to solve this problem. 
+
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Modelapp.jpg)
 
 When the store staff clicks on the Add new or + sign, this form pops up and the store staff fills in the details of the new product and saves it.
+
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Form.jpg)
 
 when this happens the manager gets an email notifying him of the addition of a new product and the  product is available in the app the next time it is opened
@@ -59,6 +62,7 @@ when this happens the manager gets an email notifying him of the addition of a n
 
 on the welcome screen, I added an Ai virtual agent using Power Virtual Agent which answers basic frequently asked questions like the opening and closing times, what items are In stock, etc.
 on selecting the “Go shopping” Button, the customer is taken to the Catalog page. 
+
 ![](Catalog.jpg)
 
 This is the main screen of the app. This is where the customer does the shopping. Here, the customer can view basic information about products like price and discount and can enter the quantity of products he would like to purchase.
@@ -79,6 +83,7 @@ If the order is successfully placed, the customer gets a screen notifying him of
 
 
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Dataverse.jpg)
+
 3 dataverse tables manage the entire transaction. 
 
 - The Shoes table records the inventory.
@@ -91,15 +96,19 @@ when the “place order” button is selected, a couple of things happen.
 3.	The individual items and their quantities, subtotals and other information critical to that product is stored in the Sales Order Details table
 4.	The quantities in the shopping cart get subtracted from the quantity in stock in the shoes table
 5.	Two automations get triggered
+   
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/automations.jpg)
 
 The manager gets an automated email notifying him that items have been removed from the quantity in stock
+
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Manager.jpg)
 
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/inventoryupdate.jpg)
 
 The store staff gets notified of the new order 
+
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/New%20Order.jpg)
+
 
 **Manager**
 
