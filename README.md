@@ -21,7 +21,7 @@ The store staff must be able to:
 - Configure Dataverse for storing and managing inventory data.
 - Using Model driven apps, implement inventory management features, i.e., product sorting, filtering, and removal.
 
-**Customer**
+### Customer
 
 The customer must be able to: 
 - Browse, search and filter for products available in the boutique.
@@ -29,7 +29,7 @@ The customer must be able to:
 - Build the checkout process, include product details, quantities, prices, and total cost, is clearly presented to the customer before checkout
 - Develop a Power Virtual Agent for customer inquiries. Must have at least 5 built-in questions and answers
 
-**Manager**
+### Manager
 
  The manager must be able to:
 - Receive a notification when new stock is added
@@ -37,7 +37,7 @@ The customer must be able to:
 
 ## Solution
 
-**Store staff**
+### Store staff
 
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Welcome%20Screen.jpg)
 
@@ -56,7 +56,7 @@ When the store staff clicks on the Add new or + sign, this form pops up and the 
 when this happens the manager gets an email notifying him of the addition of a new product and the  product is available in the app the next time it is opened
 
 
-**Customer**
+### Customer
 
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Welcome%20Screen.jpg)
 
@@ -110,7 +110,7 @@ The store staff gets notified of the new order
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/New%20Order.jpg)
 
 
-**Manager**
+### Manager
 
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Dashboard.jpg)
 
