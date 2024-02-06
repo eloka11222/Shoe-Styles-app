@@ -114,7 +114,7 @@ The store staff gets notified of the new order
 
 ![](https://github.com/eloka11222/Shoe-Styles-app/blob/main/Dashboard.jpg)
 
-The manager monitors inventory levels from a dashboard. The dashboard is connected to the dataverse tables using Direct Query so the manager always has the most up to date data available at all times
+The manager monitors inventory levels from a dashboard. The dashboard is connected to the dataverse tables using Direct Query so the manager always has the most up to date data available at all times. you can view and interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzBjY2RkMzYtZjRmZi00ODczLWI5M2UtZjgwODIxM2I5ZmI1IiwidCI6Ijk0OTg2MDlmLTAxNWMtNDgwMS05MjA4LWNiMzdjYWFkMzc1YSIsImMiOjZ9)
 
 ## Conclusion
 
